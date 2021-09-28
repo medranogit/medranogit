@@ -1,7 +1,6 @@
 ## Olá, eu sou o Vini 😀
 
 #### Atualmente estou:
-🎮🎞⚾🕹🗡📱 🖥💾💽📷📗📖📔📦✒🗳✒💼💼📆📅📇🗓⏰😁😀😂😍😋😎📘
 * ✏ Estudando Sistemas de Informação **[Bacharelado]**.
 * 🎧 Trabalhando em aprimorar minhas habilidades.
 * 📱 Em busca de projetos para colaborar e aprender.

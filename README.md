@@ -25,6 +25,11 @@ me aventurando cada vez mais por essa biblioteca infinita de possibilidades e co
 
 </div>
 <br>
+<div>
+    <a href="https://www.linkedin.com/in/viniciusmedprofi"><img width=160px height = 40px src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://steamcommunity.com/id/viinyz/"><img width=130px height=40px src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+</div>
+
 
 ~~~python
 def vinicius():

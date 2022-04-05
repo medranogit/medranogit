@@ -31,20 +31,4 @@ me aventurando cada vez mais por essa biblioteca infinita de possibilidades e co
 </div>
 
 
-~~~python
-def vinicius():
-    print("-- Coloque o valor de acordo com a opção")
-    while(True):
-        escolha = input("(1) Animes favoritos, (2) Jogos Favoritos, (3) Sair: ")
-        if escolha == "1":
-            print("\nMeus animes favoritos são:\n| Tate no Yuusha\n| Shingeki no Kyojin\n| Kiznaiver\n")
-        elif escolha == "2":
-            print("\nMeus jogos favoritos são:\n| ARK: Survival Evolved\n| Grand Chase\n| Kenshi\n")
-        elif escolha == "3":
-            print("-- Obrigado por utilizar o programa Vinicius")
-            break
-        else:
-            print("Não entendi, poderia repetir?")
 
-vinicius()
-~~~

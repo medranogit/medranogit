@@ -4,12 +4,6 @@
 * ✏ Estudando Sistemas de Informação **[Bacharelado]**.
 * 🎧 Trabalhando em aprimorar minhas habilidades.
 * 📱 Em busca de projetos para colaborar e aprender.
-* 💼 A procura de uma oportunidade de **estágio** para aplicar meus conhecimentos.
-
-## 🕹 Sobre mim:
-#### 🧐 Por onde eu começo?  <br>
-Desde os meus primeiros dias de vida fico em frente a tela de um computador, e assim fui criando um amor incondicional pelo que essa tecnologia nos possibilita, 
-me aventurando cada vez mais por essa biblioteca infinita de possibilidades e conhecimentos. <br>
 
 📖 Agora busco aprimorar minhas habilidades na área de desenvolvimento para assim criar uma carreira sólida.
 ## 🖥 Tecnologias:

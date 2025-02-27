@@ -1,15 +1,13 @@
 ## Olá, eu sou o Vini 😀
 
 #### Atualmente estou:
-* ✏ Estudando Sistemas de Informação **[Bacharelado]**.
+* ✏ Estudando Sistemas de Informação **[acharelado]**.
 * 🎧 Trabalhando em aprimorar minhas habilidades.
 * 📱 Em busca de projetos para colaborar e aprender.
 
 📖 Agora busco aprimorar minhas habilidades na área de desenvolvimento para assim criar uma carreira sólida.
 ## 🖥 Tecnologias:
 <div> 
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img width="50px" src="https://www.svgrepo.com/show/353657/django-icon.svg" />         
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />      

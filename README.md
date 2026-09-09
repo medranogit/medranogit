@@ -5,11 +5,11 @@
 
 ### Sobre
 
-Estudante de Sistemas de Informação (bacharelado), com foco em desenvolvimento de software. Atualmente aprimorando conhecimentos em desenvolvimento web e back-end, e em busca de projetos colaborativos para consolidar experiência prática.
+Desenvolvedor de Software Full Stack, com experiência no desenvolvimento de aplicações web do front-end ao back-end. Formação em Sistemas de Informação (bacharelado), sempre em busca de aprimorar habilidades técnicas e entregar soluções de qualidade.
 
-- 🎓 Bacharelado em Sistemas de Informação (em andamento)
-- 💻 Foco atual: desenvolvimento web (front-end e back-end)
-- 🤝 Aberto a colaborações e projetos em equipe
+- 💻 Desenvolvimento full stack: front-end, back-end e banco de dados
+- 🎓 Bacharelando em Sistemas de Informação
+- 🤝 Aberto a colaborações e novos projetos
 
 ---
 
